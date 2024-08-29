@@ -1,0 +1,6 @@
+{
+  "schemaType": "NERDLET",
+  "id": "home",
+  "displayName": "Anomaly Optimization",
+  "description": "Optimize nrql anomalies through evaluation of NrAiSignal"
+}

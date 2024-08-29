@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "launcher",
+  "displayName": "Anomaly Optimization",
+  "description": "Optimize nrql anomalies through evaluation of NrAiSignal",
+  "rootNerdletId": "home"
+}

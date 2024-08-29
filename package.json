@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "nr1-anomaly-optimization",
+    "version": "0.4.0",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "6a9cadff-e188-42f3-9019-0704ce434331"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "semantic-ui-css": "2.4.1",
+        "semantic-ui-react": "2.0.4"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
